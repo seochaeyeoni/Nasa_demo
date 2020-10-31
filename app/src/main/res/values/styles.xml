@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#F44336</item>
+    </style>
+
+    <!-- 스플래시 스크린 액티비티용 테마 근데 어떻게 이쁘게 할 지 몰라서 안 씀! -->
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:background">@drawable/nasa_logo</item>
+    </style>
+
+</resources>
